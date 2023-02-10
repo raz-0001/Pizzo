@@ -1,0 +1,144 @@
+*{
+    margin:0;
+    padding:0;
+}
+.main a img{
+    position: relative;
+    left: 30%;
+    top: 50%;
+    width: 40%;
+}
+.top h1{
+    position: sticky;
+    left: 50vw;
+    display: inline;
+}
+
+.top .icon{
+    z-index: 1;
+    width: 3%;
+    position: sticky;
+    left: 45vw;
+}
+
+.top .login{
+    z-index: 1;
+    width: 3%;
+    position: sticky;
+    left: 80vw;
+}
+
+.top .cart{
+    z-index: 1;
+    width: 3%;
+    position: sticky;
+    left: 90vw;
+}
+
+.top{
+    display: block;
+    width: 100%;
+    background-color: yellow;
+}
+
+.main {
+    width: 50%;
+    height: 80vh;
+    position: relative;
+    left: 25vw;
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.main{
+    background-color: black;
+}
+
+.head1{
+    background-color: yellow;
+    text-align: center;
+}
+
+.head2{
+    background-color: black;
+    text-align: center;
+    color:yellow;
+}
+
+.head3 img{
+    width:5vw;
+}
+
+.head3 h2{
+    background-color: yellow;
+    text-align: center;
+}
+
+.head3 p{
+    background-color: black;
+    text-align: center;
+    color:yellow;
+}
+
+.head4 h2{
+    background-color: yellow;
+    text-align: center;
+}
+
+.head4 img{
+    width: 10vw;
+    position: relative;
+    left: 47vw;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.head4 p{
+    text-align: center;
+    position: relative;
+    background-color: black;
+    color: yellow;
+}
+
+.head5 h2{
+    background-color: yellow;
+    text-align: center;
+}
+
+.head5 img{
+    width: 10vw;
+    position: relative;
+    left: 47vw;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.head5 p{
+    text-align: center;
+    position: relative;
+    background-color: black;
+    color: yellow;
+}
+
+.sm1{
+    width: 4%;
+    padding-left: 20%;
+}
+
+.sm{
+    width:5%;
+    padding-left: 25%;
+}
+
+.end ul li{
+    display: inline;
+}
+
+.end{
+    background-color: black;
+}
+
+.head6{
+    background-color: yellow;
+}
